@@ -26,7 +26,7 @@ The program for the Arduino code can be downloaded [here](https://drive.google.c
 
 * Clone your forked repository
   
-  git clone https://github.com/1234tharindu/VIP-LIGHT-POLICE-LIGHT-System-With-Arduino.git
+  git clone : https://github.com/1234tharindu/VIP-LIGHT-POLICE-LIGHT-System-With-Arduino.git
   
 
 # Video Clip
