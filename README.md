@@ -30,4 +30,5 @@ The program for the Arduino code can be downloaded [here](https://drive.google.c
   
 
 # Video Clip
-#
+
+https://github.com/user-attachments/assets/198dea13-1759-4bcb-bea5-71e60c17ba3e
